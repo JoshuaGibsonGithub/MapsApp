@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DirectMe</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_map_key">AIzaSyCmVcRhBFA0p-aooV_5ZbEbqQ2ajEFPaAM</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250387153287",
+    "project_id": "mapsapp-6bf2a",
+    "storage_bucket": "mapsapp-6bf2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250387153287:android:6c807858cce7ab16ced322",
+        "android_client_info": {
+          "package_name": "com.varsitycollege.mapsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250387153287-akfvtd8ogfaieekbhfmouf7h3r7k9rjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARdo-kskCap-oC3FS_hz4YAFunplihwg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250387153287-akfvtd8ogfaieekbhfmouf7h3r7k9rjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
